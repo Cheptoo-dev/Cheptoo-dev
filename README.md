@@ -1,4 +1,4 @@
-"Pioneering the future of **autonomous intelligence** through cutting-edge **agentic AI systems** and **enterprise-grade solutions**. Dedicated to building AI that doesn't just respond—but *thinks*, *plans*, and *executes* with human-level reasoning."
+Pioneering the future of **autonomous intelligence** through cutting-edge **agentic AI systems** and **enterprise-grade solutions**. Dedicated to building AI that doesn't just respond—but *thinks*, *plans*, and *executes* with human-level reasoning.
 
 **About Me 🚀**
 
@@ -20,6 +20,7 @@ I'm Cheptoo Faith, an AI Solutions Architect & Agentic AI Innovator focused on c
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude-FF6B35?style=flat-square&logo=anthropic&logoColor=white)
+
 **🤖 AI Development Platforms**
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-667881?style=flat-square&logo=replit&logoColor=white)
@@ -97,7 +98,7 @@ Your support helps me create more innovative AI tools and push the boundaries of
 🤝 **Open for collaborations** in Agentic AI, Enterprise Automation, and Cloud-Scale AI Architecture  
 📫 **Reach me at**: cheptoo960@gmail.com
 
-## Hi there 👋
+
 
 <!--
 **Cheptoo-dev/Cheptoo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
