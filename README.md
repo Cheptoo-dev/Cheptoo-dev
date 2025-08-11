@@ -11,6 +11,7 @@ I'm Cheptoo Faith, an AI Solutions Architect & Agentic AI Innovator focused on c
 * 🏢 **Enterprise AI Integration**: Implementing production-ready AI solutions that transform how businesses operate and make decisions
 * 🔬 **AI Research & Innovation**: Exploring bleeding-edge AI techniques and translating research into practical, deployable solutions
 
+
 **Tech Stack & Tools 🛠️**
 
 **🧠 AI & Machine Learning**
@@ -44,11 +45,13 @@ I'm Cheptoo Faith, an AI Solutions Architect & Agentic AI Innovator focused on c
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
+
 **Current Focus 🎯**
 
 | 🔥 **Building Autonomous AI Agents** | 🚀 **Enterprise Agentic Solutions** | ☁️ **Cloud-Scale AI Architecture** |
 |--------------------------------------|-------------------------------------|-------------------------------------|
 | Multi-agent collaboration systems   | Business process automation        | Distributed AI model deployment    |
+
 
 **Weekly Development Metrics 📊**
 
@@ -57,12 +60,14 @@ I'm Cheptoo Faith, an AI Solutions Architect & Agentic AI Innovator focused on c
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Cheptoo-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
 </div>
 
+
 **Technology Leaderboard 🏆**
 
 **💻 Most Used Languages**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheptoo-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
 </div>
+
 
 **🔥 Technology Proficiency**
 
@@ -71,6 +76,7 @@ I'm Cheptoo Faith, an AI Solutions Architect & Agentic AI Innovator focused on c
 | **Cloud Architecture**    | ██████████████████░░ 90% |
 | **AI/ML Engineering**     | ████████████████░░░░ 85% |
 | **Enterprise Solutions**  | ███████████████░░░░░ 80% |
+
 
 **📈 Contribution Stats**
 
@@ -85,6 +91,7 @@ I'm Cheptoo Faith, an AI Solutions Architect & Agentic AI Innovator focused on c
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Chepptoo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Cheptoo-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cheptoo960@gmail.com)
+
 
 **Support My Work ☕**
 
